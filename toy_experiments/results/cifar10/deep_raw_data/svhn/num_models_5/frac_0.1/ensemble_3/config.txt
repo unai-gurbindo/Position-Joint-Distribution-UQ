@@ -1,0 +1,9 @@
+batch_size: 128
+num_models: 5
+seed: 3
+order: lower
+ensemble_type: deep
+ood_fraction: 0.1
+ood_dataset: svhn
+cifar10c_corruption: gaussian_noise
+cifar10c_severity: 3

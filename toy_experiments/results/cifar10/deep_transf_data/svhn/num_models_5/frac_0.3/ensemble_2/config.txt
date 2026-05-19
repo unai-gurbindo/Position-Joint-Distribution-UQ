@@ -1,0 +1,1 @@
+batch_size: 128num_models: 5ensemble_type: deepdata_transformation: transf_dataood_fraction: 0.3ood_dataset: svhncifar10c_corruption: gaussian_noisecifar10c_severity: 3
